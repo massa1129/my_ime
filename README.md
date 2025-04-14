@@ -1,2 +1,3 @@
 # my_ime
-The porpose of this repository is to learn about IME and to develop a custom one.
+IMEを自作したいなーと思ったので現在試作中。
+使用環境はarch linuxでGNOME。フレームワークはibus。
